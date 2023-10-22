@@ -1,4 +1,4 @@
- Hi, I’m @FedericoS1
+Hi, I’m @FedericoS1
 
 I'm proficient in Python and I have built big applications there. Happy to support and collaborate
 
